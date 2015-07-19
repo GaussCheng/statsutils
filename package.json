@@ -1,0 +1,25 @@
+{
+  "name": "statsutils",
+  "version": "0.0.1",
+  "description": "A lib for statistics",
+  "main": "statsutils.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GaussCheng/statsutils.git"
+  },
+  "keywords": [
+    "statistics"
+  ],
+  "author": "GaussCheng@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaussCheng/statsutils/issues"
+  }
+}
